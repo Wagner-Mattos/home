@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = home
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = https://rattle-sword-4a6.notion.site/pagina-de-teste-6e9875e288034871822507a1e695a537
